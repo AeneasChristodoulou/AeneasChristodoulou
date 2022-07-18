@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AeneasChristodoulou
-- 👀 I’m interested in Programming, Microelectronics/IoT and Hardware Modding
-- 🌱 I’m currently learning Python, Java, C++, SQL, PHP and HTML + CSS
+- 👀 I’m interested in Programming (especially Machine-Learning), Microelectronics/IoT and Hardware Modding
+- 🌱 I’m currently learning Python, C++, Java, PHP, SQL, HTML and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
