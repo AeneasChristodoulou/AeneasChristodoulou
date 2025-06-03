@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @AeneasChristodoulou
-- 👀 I’m interested in Programming (especially Machine-Learning), Microelectronics/IoT and Hardware Modding
-- 🌱 I’m currently learning Python, and some other stuff in High School
-- 💞️ I’m looking to collaborate on all sorts of cool open-source projects!
-- 📫 How to reach me ...
+- Hey there, I’m @AeneasChristodoulou!
+- Upcoming Dual Student @Dataport and Hamburg School of Business Administration
+- 2.5x Co-organizer of @PYCONDE and Volunteer @europython
+- Doing cool stuff with data, electronics and other related stuff.
+- A bit too interested in lasers
+- 📫 Shoot me a message on LinkedIn!
 
 Highschool student from Germany, FlightSim- and Python-lover.
 <!---
