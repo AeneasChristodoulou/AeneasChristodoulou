@@ -1,5 +1,5 @@
 - Hey there, I’m @AeneasChristodoulou!
-- Upcoming Dual Student @Dataport and Hamburg School of Business Administration
+- Dual Student for Business Informatics @Dataport and Hamburg School of Business Administration
 - 2.5x Co-organizer of @PYCONDE and Volunteer @europython
 - Doing cool stuff with data, electronics and other related stuff.
 - A bit too interested in lasers
